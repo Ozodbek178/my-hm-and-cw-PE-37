@@ -1,5 +1,5 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+.idea
+.vscode
+.DS_Store
+*.xml
+*.iml
